@@ -1,12 +1,13 @@
-# google-firebase-database-connection
+## google-firebase-database-connection
 
 Eclipse library project based on:<br/>
-https://maven.google.com/com/google/firebase/firebase-database-connection/12.0.1/firebase-database-connection-12.0.1.aar
+https://maven.google.com/com/google/firebase/firebase-database-connection/15.0.0/firebase-database-connection-15.0.0.aar
 
 **Requires:**
 - `Android 8.1 (API 27) SDK Platform`
-- [dandar3/android-google-firebase-common](https://github.com/dandar3/android-google-firebase-common/tree/12.0.1)
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/12.0.1)
+- [dandar3/android-google-firebase-analytics](https://github.com/dandar3/android-google-firebase-analytics/tree/15.0.0)
+- [dandar3/android-google-firebase-common](https://github.com/dandar3/android-google-firebase-common/tree/15.0.0)
+- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/15.0.0)
 
 **References:**
 - https://firebase.google.com/docs/database/
@@ -15,6 +16,6 @@ https://maven.google.com/com/google/firebase/firebase-database-connection/12.0.1
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-google-firebase-database-connection/12.0.1/.projectset
+  https://raw.githubusercontent.com/dandar3/android-google-firebase-database-connection/15.0.0/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
-  https://github.com/dandar3/android-google-firebase-database-connection/tags/12.0.1
+  https://github.com/dandar3/android-google-firebase-database-connection/tags/15.0.0
